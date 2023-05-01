@@ -19,5 +19,6 @@ ___This Tools is Free Enjoy Dear User.___</br>
 ## DEMO_SCREENSHOT :
 <br>
 <p align="center">
-T-STYLE
+<img src="__scr__/bnr.jpg"/>
+<img src="__scr__/bnr1.jpg"/>
 </p>
